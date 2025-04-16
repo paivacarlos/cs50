@@ -1,24 +1,15 @@
-# Projeto CS50
+# CS50 Project
 
-Este é meu projeto para o curso CS50 de Harvard.
+This is my project for Harvard's CS50 course.
 
-## Estrutura do Projeto
+## Project Structure
 
-- `src/` - Contém os arquivos fonte em C
-- `include/` - Contém os arquivos de cabeçalho (.h)
+- `src/` - Contains the C source files  
+- `include/` - Contains the header files (.h)
 
-## Como compilar
+## How to Compile
 
-Para compilar o projeto, use:
+To compile the project, use:
 
 ```bash
 gcc -o programa src/main.c
-```
-
-## Como executar
-
-Após compilar, execute:
-
-```bash
-./programa
-``` 
